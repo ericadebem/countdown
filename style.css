@@ -2,8 +2,6 @@
 
 *{
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 body {
     display: flex;
@@ -11,6 +9,7 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'poppins';
+    margin: 0;
 }
 
 h1 {
